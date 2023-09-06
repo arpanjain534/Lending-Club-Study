@@ -87,4 +87,4 @@ In other words, the company wants to understand the driving factors (or driver v
 
 
 ## Contact
-Created by Arpan Jain and Pooja Kumari
+Created by Arpan Jain and Puja Kumari
